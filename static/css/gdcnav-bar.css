@@ -1,0 +1,256 @@
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #EF1C6E;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #101010;
+    background-color: #000;
+}
+
+.clearfix,  .container-fluid, .row, .panel-body, .nav {
+    clear: both;
+    background-color: #000;
+}
+
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #FFF;
+    background-color: #d91b5c;
+    font-size: large;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #FFF;
+    font-size: 13px;
+     background-color:#d91b5c;
+}
+
+
+.navbar-inverse {
+    background-color: #d91b5c;
+    border-bottom-style: #d91b5c;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 13px;
+border-bottom-style: #d91b5c;
+}
+
+ul.topMenu .insta {
+    float: right;
+    margin: 50px 0 0px 0px;
+    display:block;
+    margin-right:0px;
+}
+
+
+.gdc-social-median{
+   
+    display: block;
+    float: right;
+    color:#eee;
+    margin:5px;
+   
+}
+
+.social--colored .social__variant.fa-facebook{
+    background-color: #3B5998;
+    display: block;
+    float: right;
+    
+}
+
+.social--colored .social__variant.fa-twitter{
+    background-color: #3B5998;
+    display: block;
+    float: right;
+}
+
+.social--colored .social__variant.fa-instagram{
+    background-color: #3B5998;
+    display: block;
+    float: right;
+}
+
+.logo img {
+    width: 118px;
+    height: 80px;
+    margin-left:0px;
+    margin-top:9px;
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+                             line-height: 1;
+                             margin:0px 0 0px 0px;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+ margin:0px 0 0px 0px;
+}
+
+
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0px;
+    margin: 2px 0px 0px;
+    font-size: 14px;
+    text-align: left;
+    list-style: outside none none;
+    background-color: #D8D7E0;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.176);
+}
+
+.dropdown-menu > li > a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857;
+    color: #d91b5c;
+    white-space: nowrap;
+    font-size: large;
+}
+
+div .content-width {
+max-width:1100px;
+
+ margin:2px auto 2px auto;
+ position:relative;
+
+
+}
+
+.movie--test {
+    float: left;
+    margin-bottom: 8px;
+    background-color:#ffffff
+    width: 549px;
+}
+
+.movie--test .movie__info {
+    overflow: hidden;
+    padding: 7px;
+    position: relative;
+    min-height: 200px;
+    margin: 0px;
+    background-color:#eee
+}
+
+.movie .movie__option {
+    font-size: 13px;
+    margin-bottom: 3px;
+    color: #000;
+    background-color:#eee
+}
+
+.movie--test .movie__title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #f20000;
+    
+}
+
+
+.section-title {
+text-align:center;
+margin-top: 1em;
+background-color:#eef0f1;
+padding: .5em 0;
+border-radius: .3em;
+
+}
+
+.navbar-nav > li > .dropdown-menu {
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: black;
+}
+
+div.fullWidth-footer {
+    width: 100%;
+    margin-bottom:20px;
+    padding: 10px 0;
+    background-color: #eee;
+    overflow: hidden;
+}
+
+.fullWidth-footer h2 {
+    font-size: 18px;
+    font-weight: 400;
+    color: #c60c46;
+margin: 10px 0 10px 150px;
+}
+
+
+
+
+
+.movie__option1 {
+    font-size: 13px;
+    margin-bottom: 3px;
+    color: #000;
+    background-color: #f2f2f2;
+}
+
+.wrapper1 {
+    overflow: hidden;
+    position: relative;
+    min-height: 100%;
+    background-color: #f2f2f2;
+}
+
+.tags-area {
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    margin-top: 40px;
+    padding-top: 13px;
+    padding-bottom: 6px;
+    
+}
+
+
+
+.white_text-title {
+    color: #cc3333;
+    font-size: 20px;
+}
+
+.service-title {
+width:100%;
+text-align:center;
+margin-top: 1em;
+background-color:#e6e6e6;
+padding: .5em 0;
+border-radius: .3em;
+margin-left: 0px;
+
+}
+ 
+
+.section-title {
+	padding:1px;
+	background:#e6e6e6	;
+	text-weight:bolder;
+}
+
+.section-title small{
+	
+	color:#fff !important;
+}
+
